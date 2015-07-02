@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Context Of Joan of Arc - A Historian's Perspective"
+title:  "Context Of Joan of Arc - An Historian's Perspective"
 date:   2015-06-30 18:39:47
 categories: history women religion
 ---
@@ -16,5 +16,6 @@ categories: history women religion
 > And she wasn’t only a girl—she was a girl dressed as a boy. Which adds another of challenge, because the book of Deuteronomy in the Old Testament says that a woman dressed as a man is an abomination unto the lord. It is an absolute overturning of what God meant for his creation, the proper ordering of the world. So Joan in every sense challenged expectations, assumptions, about what was normal and normally right. But that was in a sense part of her power, part of her charisma, once it had been decided to give her a chance.
 
 >There are contemporary accounts of her when she arrived in Orléans and was able to slip into The town through the English cordon, of being greeted as though she were an angel from God. The townspeople were so desperate for salvation that they crowded around her, believing that the miracle was about to happen. Joan of course also believed that the miracle was about to happen. And her strategy—many historians have talked of her remarkable military brain and talked as though she were a subtle strategist. I can’t see that at all. It just seems to me that wherever she fights, she has one strategy, which is attack, now, in the name of God. But that was exactly what was needed at Orléans in 1429 to galvanize the Armagnac cause, to feel suddenly some belief that they could perhaps win, that they were about to make a difference. 
+> So if you put together her image, her words, and her death, you have a very, very powerful mixture. That really comes together in the late 19th century and early 20th century with the campaign to have her made a saint. Which is a very, very complicated one, because she was put to death under the authority of the Catholic Church, and I think I’m right in saying that she’s the only Catholic saint to have been killed by a judgment of the Catholic Church. So she can’t because a saint as a martyr. You can make people a martyr if they’ve been killed by pagans or protestants. Instead she is canonized as a holy virgin who displayed the virtues to a heroic degree.
 
 [jezebel article]:     http://pictorial.jezebel.com/author-helen-castor-talks-putting-joan-of-arc-back-into-1714892216 
